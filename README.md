@@ -1,5 +1,5 @@
 
-# Hi, I'm Shalini 👋
+# Hi, I'm Shalini M 👋
 **Senior Frontend Engineer | React | Next.js | Performance | Accessibility**
 
 🌍 Bangalore, India  
@@ -9,7 +9,7 @@
 ---
 
 ## 🚀 About Me
-Frontend Developer with strong expertise in **React**, **Next.js**, and building scalable, user-focused applications. Skilled in **JavaScript**, **TypeScript**, and modern UI frameworks. Passionate about **performance optimization**, **accessibility**, and creating delightful user experiences.
+Senior Frontend Developer with strong expertise in **React**, **Next.js**, and building scalable, user-focused applications. Skilled in **JavaScript**, **TypeScript**, **Python** and modern UI frameworks. Passionate about **performance optimization**, **accessibility**, and creating delightful user experiences.
 
 ---
 
