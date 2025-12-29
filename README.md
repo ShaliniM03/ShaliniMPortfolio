@@ -43,6 +43,7 @@ ReactJS | Next.js | Snowflake | Python | REST APIs
 
 ## Results
 - Reduced cloud costs significantly through actionable insights.
+- Reduced analysis time by 40% across multiple teams.
 
 ---
 
@@ -66,6 +67,7 @@ ReactJS | Tailwind CSS | Stripe | Razorpay | Keycloak
 
 ## Results
 - Increased platform sales by 15%.
+- Enhanced UX and reduced page load time by 30%.
 
 ---
 
@@ -86,7 +88,8 @@ ReactJS | Next.js
 - Improved test coverage by 80% and reduced manual effort by 35
 
 ## Results
-- QA cycle time reduced by 30%.
+- Improved test coverage by 80%
+- Reduced manual effort by 35%, and accelerated release cycles by 30%.
 
 ---
 
@@ -109,7 +112,7 @@ ReactJS | SASS | IndexedDB
 
 ## Results
 - Improved load times and retention.
-- Increased sales by 30% on self food-ordering platform
+- Improved conversion rate by 12%, and boosted repeat orders
 
 ---
 
@@ -130,8 +133,8 @@ Next.js | PayU
 - Delivered optimized Core Web Vitals for better user engagement.
 
 ## Results
-- Improved engagement by 25%.
-- Enhanced user experience.
+- Improved user engagement by 25%.
+- Enhanced user experience, reduced bounce rate by 18%, and increased conversion by 10%.
 
 ---
 
@@ -152,8 +155,8 @@ ReactJS | Google Maps | Google Analytics
 - Optimized SEO and page load performance for high traffic.
 
 ## Results
-- Enhanced user experience.
-- Improved engagement by 65%.
+- Enhanced user experience and improved campaign tracking by 15%
+- Improved user engagement by 45%.
 
 ---
 
@@ -174,6 +177,9 @@ ReactJS | Axios | REST APIs
 
 ## Results
 - Streamlined order and revenue tracking.
+- Reduced manual effort by 40%, and improved reporting accuracy by 30%.
+
+----
 
 ## 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/shalu03)
