@@ -157,7 +157,7 @@ ReactJS | Google Maps | Google Analytics
 
 ---
 
-# Pharma Portal – Distributor CMS
+### **Pharma Portal – Distributor CMS**
 CMS administration website for pharmaceutical distributors.
 
 ## Tech Stack
